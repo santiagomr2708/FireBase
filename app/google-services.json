@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "261204448621",
+    "project_id": "moviles-d01af",
+    "storage_bucket": "moviles-d01af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261204448621:android:da3d47eb0174a4a3be3664",
+        "android_client_info": {
+          "package_name": "com.montoya.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSrbOM7EvIdvJBR3HDanGpktH-ypHYYhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
